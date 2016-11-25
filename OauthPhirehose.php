@@ -1,5 +1,3 @@
-//OauthPhirehose.php
-
 <?php
 require_once('Phirehose.php');
 
